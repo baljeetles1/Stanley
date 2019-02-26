@@ -1,0 +1,11 @@
+.reload{
+  background-color: black;
+  color: green;
+  position: absolute;
+  top: 608px;
+  left: 8px;
+  width: 800px;
+  height: 100px;
+  border: none;
+  font-size: 50px;
+}
